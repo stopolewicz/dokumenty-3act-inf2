@@ -1,0 +1,7 @@
+<<<<<<< .merge_file_a19284
+Jakaś inna wersja
+=======
+Edycja dokumentu na gałęzi doc
+
+Tu dodajemy poprawkę....
+>>>>>>> .merge_file_a22116
