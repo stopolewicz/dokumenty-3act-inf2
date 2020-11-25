@@ -1,1 +1,3 @@
 Edycja dokumentu na gałęzi doc
+
+Tu dodajemy poprawkę....
