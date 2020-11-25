@@ -1,1 +1,3 @@
 # dokumenty-3act-inf2
+
+Lorem ipsum dolor sit amet...
